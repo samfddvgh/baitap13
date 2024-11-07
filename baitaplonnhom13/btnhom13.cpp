@@ -25,7 +25,7 @@ long long tinhgia(long long giabth, int tuoi) {
     } else if (tuoi>= 2) {
         return giabth * 0.75; 
     } else {
-        return 100;  
+        return 100000;  
     }
 }
 
