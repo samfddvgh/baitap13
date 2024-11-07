@@ -1,6 +1,5 @@
 #include <iostream>
-#include <string>
-#include <iomanip>  
+#include <string> 
 using namespace std;
 
 struct SeatNode {
